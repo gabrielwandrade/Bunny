@@ -39,7 +39,7 @@
 
                 <tbody>
                     <tr>
-                        <td><input type="text" class="form-control" name="auth_key" value="e36431d7-7ffb-4fd7-a1cc-a49ff13587b07b7637f0-bd3d-44f4-bae9-8c84c14ffe94"></td>
+                        <td><input type="text" class="form-control" name="auth_key" value=""></td>
                         <td><input type="text" class="form-control" name="library_name"/></td>
                         <td><input type="submit" class="btn btn-success" value="Criar Biblioteca"></td>
                         @csrf
@@ -63,7 +63,7 @@
 
                 <tbody>
                     <tr>
-                        <td><input type="text" class="form-control" name="auth_key" value="e36431d7-7ffb-4fd7-a1cc-a49ff13587b07b7637f0-bd3d-44f4-bae9-8c84c14ffe94"></td>
+                        <td><input type="text" class="form-control" name="auth_key" value=""></td>
                         <td><input type="text" class="form-control" name="library_id"/></td>
                         <td><input type="submit" class="btn btn-success" value="Delete Biblioteca"></td>
                         @csrf
@@ -89,10 +89,10 @@
 
                 <tbody>
                     <tr>
-                        <td><input type="text" class="form-control" name="auth_key" value="a8076e0c-2deb-4936-a1ededf61f67-1188-4803"></td>
+                        <td><input type="text" class="form-control" name="auth_key" value=""></td>
                         <td><input type="file" class="form-control" name="video_path"></td>
                         <td><input type="text" class="form-control" name="video_name"></td>
-                        <td><input type="text" class="form-control" name="library_id" value="191535"></td>
+                        <td><input type="text" class="form-control" name="library_id" value=""></td>
                         <td><input type="submit" class="btn btn-success" value="Upload"></td>
                         @csrf
                     </tr>
