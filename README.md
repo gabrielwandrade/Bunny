@@ -4,8 +4,12 @@
 ## Sobre a aplicação
 
 Essa aplicação tem como objetivo mostrar como podemos fazer a integração dos principais recursos do bunny.net para o serviço de stream.
-Os metodos implementados são:
+Os métodos implementados são:
 1. Criar Biblioteca
 2. Deletar Biblioteca
 3. Fazer Upload de videos
 4. Deletar video de uma biblioteca
+
+## Tecnologia
+
+Esse exemplo está escrito com PHP e Laravel
