@@ -56,7 +56,7 @@ class BunnyController extends Controller
             curl_close($ch);
 
             if ($response !== false) {
-            return true;
+            return $response;
             }
         }
 

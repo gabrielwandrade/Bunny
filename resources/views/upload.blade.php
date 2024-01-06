@@ -20,7 +20,7 @@
         
         <div class="row">
             <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
-                <h1 class="jumbotron-heading">Bunny.net Streame de vídeo</h1>
+                <h1 class="jumbotron-heading">Bunny.net Stream de vídeo</h1>
                 <p class="lead">Essa página traz exemplos de integração da API Bunny usando PHP com Laravel.</p>
             </div>
         </div>
