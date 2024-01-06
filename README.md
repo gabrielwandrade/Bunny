@@ -1,11 +1,11 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://dash.bunny.net/assets/images/logo-bunnynet-dark-blue.svg" width="400" alt="Laravel Logo"></a></p>
 
 
 ## Sobre a aplicação
 
 Essa aplicação tem como objetivo mostrar como podemos fazer a integração dos principais recursos do bunny.net para o serviço de stream.
 Os metodos implementados são:
-Criar Biblioteca
-Deletar Biblioteca
-Fazer Upload de videos
-Deletar video de uma biblioteca
+1. Criar Biblioteca
+2. Deletar Biblioteca
+3. Fazer Upload de videos
+4. Deletar video de uma biblioteca
